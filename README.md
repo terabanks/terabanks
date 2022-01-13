@@ -20,6 +20,6 @@
 - [Another Demo Blog Post](https://technicallyjusttalking.com/another-demo-blog-post/)
 <!-- BLOG-POST-LIST:END -->
 
-### :tv: My Youtube Videos
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+### :tv: My Videos
+<!-- YOUTUBE-VIDEO-LIST:START -->
+<!-- YOUTUBE-VIDEO-LIST:END -->
