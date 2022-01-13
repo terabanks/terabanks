@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @terabanks.
+# :hand: Hi, I'm Tera!
+
 - 👀 I’m interested in Front-end Software Development.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to make more contributions in 2022.
-- 📫 I can be reached on <a href="https://www.youtube.com/channel/UC6u-qjq4vbT-09ZhmKwKqfg">Youtube </a> or my <a href="https://technicallyjusttalking.com/"> Website</a>.
+- 🧠 I’m currently learning React.
+- :computer: I’m looking to make more contributions in 2022.
+- :email: I can be reached on <a href="https://www.youtube.com/channel/UC6u-qjq4vbT-09ZhmKwKqfg">Youtube </a> or my <a href="https://technicallyjusttalking.com/"> Website</a>.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=terabanks&show_icons=true&theme=radical">
 
