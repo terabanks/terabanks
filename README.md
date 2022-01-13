@@ -14,6 +14,10 @@
 
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Oh! Hello There!](https://technicallyjusttalking.com/hello-world/)
+- [The Learning Never Ends](https://technicallyjusttalking.com/your-first-blog-post/)
+- [Why Doing Bad is Good](https://technicallyjusttalking.com/why-doing-bad-is-good/)
+- [Another Demo Blog Post](https://technicallyjusttalking.com/another-demo-blog-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :tv: My Youtube Videos
