@@ -16,9 +16,9 @@
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Var vs Let vs Const – Which is the best?](https://technicallyjusttalking.com/var-vs-let-vs-const-which-is-the-best/)
-- [Oh! Hello There!](https://technicallyjusttalking.com/oh-hello-there/)
-- [The Learning Never Ends](https://technicallyjusttalking.com/the-learning-never-ends/)
 - [Why Doing Bad is Good](https://technicallyjusttalking.com/why-doing-bad-is-good/)
+- [The Learning Never Ends](https://technicallyjusttalking.com/the-learning-never-ends/)
+- [Oh! Hello There!](https://technicallyjusttalking.com/oh-hello-there/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :tv: My Videos
