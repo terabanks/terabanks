@@ -15,8 +15,8 @@
 
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Literal Discussion – Javascript Template Literals](https://technicallyjusttalking.com/javascript-template-literals/)
 - [Default Parameters – What Are They and How Do You Use Them?](https://technicallyjusttalking.com/default-parameters-what-are-they-and-how-do-you-use-them/)
+- [A Literal Discussion – Javascript Template Literals](https://technicallyjusttalking.com/javascript-template-literals/)
 - [Var vs Let vs Const – Which is the best?](https://technicallyjusttalking.com/var-vs-let-vs-const-which-is-the-best/)
 - [Why Doing Bad is Good](https://technicallyjusttalking.com/why-doing-bad-is-good/)
 - [The Learning Never Ends](https://technicallyjusttalking.com/the-learning-never-ends/)
