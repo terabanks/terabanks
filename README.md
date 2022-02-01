@@ -15,11 +15,11 @@
 
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Pseudo Elements](https://technicallyjusttalking.com/css-pseudo-elements/)
 - [Default Parameters – What Are They and How Do You Use Them?](https://technicallyjusttalking.com/default-parameters-what-are-they-and-how-do-you-use-them/)
 - [Javascript ES6: New String Methods](https://technicallyjusttalking.com/javascript-es6-new-string-methods/)
 - [A Literal Discussion – Javascript Template Literals](https://technicallyjusttalking.com/javascript-template-literals/)
 - [Var vs Let vs Const – Which is the best?](https://technicallyjusttalking.com/var-vs-let-vs-const-which-is-the-best/)
-- [Why Doing Bad is Good](https://technicallyjusttalking.com/why-doing-bad-is-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :tv: My Videos
