@@ -15,11 +15,11 @@
 
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Combinators | Child Selectors](https://technicallyjusttalking.com/css-combinators-child-selectors/)
 - [CSS Combinators | Descendant Selectors](https://technicallyjusttalking.com/css-combinators-descendant-selectors/)
 - [CSS Pseudo Classes](https://technicallyjusttalking.com/css-pseudo-classes/)
 - [CSS | Pseudo-Elements](https://technicallyjusttalking.com/css-pseudo-elements/)
 - [CSS  |  Id Selectors](https://technicallyjusttalking.com/css-id-selectors/)
-- [Default Parameters – What Are They and How Do You Use Them?](https://technicallyjusttalking.com/default-parameters-what-are-they-and-how-do-you-use-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :tv: My Videos
