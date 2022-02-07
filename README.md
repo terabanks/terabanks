@@ -15,11 +15,11 @@
 
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS | Grouping Selectors](https://technicallyjusttalking.com/css-grouping-selectors/)
 - [CSS | Universal Selectors](https://technicallyjusttalking.com/css-universal-selectors/)
 - [CSS | Attribute Selectors](https://technicallyjusttalking.com/css-attribute-selectors/)
 - [CSS | Class Selectors](https://technicallyjusttalking.com/css-class-selectors/)
 - [CSS Combinators | General Sibling Selectors](https://technicallyjusttalking.com/css-combinators-general-sibling-selectors/)
-- [CSS Combinators | Adjacent Sibling Selectors](https://technicallyjusttalking.com/css-combinators-adjacent-sibling-selectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :tv: My Videos
