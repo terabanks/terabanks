@@ -15,11 +15,11 @@
 
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Promises](https://technicallyjusttalking.com/javascript-promises/)
 - [Javascript ES6 | Classes](https://technicallyjusttalking.com/javascript-es6-classes/)
 - [JavaScript ES6 | Arrow Functions](https://technicallyjusttalking.com/javascript-es6-arrow-functions/)
 - [JavaScript ES6 | Enhanced Object Literals](https://technicallyjusttalking.com/javascript-es6-enhanced-object-literals/)
 - [CSS | Grouping Selectors](https://technicallyjusttalking.com/css-grouping-selectors/)
-- [CSS | Universal Selectors](https://technicallyjusttalking.com/css-universal-selectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :tv: My Videos
