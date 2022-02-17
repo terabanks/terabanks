@@ -15,11 +15,11 @@
 
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Array Method | slice&lpar;&rpar;](https://technicallyjusttalking.com/javascript-array-method-slice/)
+- [JavaScript Array Methods | slice&lpar;&rpar;](https://technicallyjusttalking.com/javascript-array-method-slice/)
 - [JavaScript ES6 | Destructuring Arrays](https://technicallyjusttalking.com/javascript-es6-destructuring-arrays/)
-- [Javascript Promises](https://technicallyjusttalking.com/javascript-promises/)
-- [Javascript ES6 | Classes](https://technicallyjusttalking.com/javascript-es6-classes/)
-- [JavaScript ES6 | Arrow Functions](https://technicallyjusttalking.com/javascript-es6-arrow-functions/)
+- [CSS | Grouping Selectors](https://technicallyjusttalking.com/css-grouping-selectors/)
+- [CSS Pseudo Classes](https://technicallyjusttalking.com/css-pseudo-classes/)
+- [CSS | Pseudo-Elements](https://technicallyjusttalking.com/css-pseudo-elements/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :tv: My Videos
