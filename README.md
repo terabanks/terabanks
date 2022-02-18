@@ -16,10 +16,10 @@
 ### :page_with_curl: My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Array Methods | slice&lpar;&rpar;](https://technicallyjusttalking.com/javascript-array-method-slice/)
-- [JavaScript ES6 | Destructuring Arrays](https://technicallyjusttalking.com/javascript-es6-destructuring-arrays/)
 - [CSS | Grouping Selectors](https://technicallyjusttalking.com/css-grouping-selectors/)
 - [CSS Pseudo Classes](https://technicallyjusttalking.com/css-pseudo-classes/)
 - [CSS | Pseudo-Elements](https://technicallyjusttalking.com/css-pseudo-elements/)
+- [CSS | Universal Selectors](https://technicallyjusttalking.com/css-universal-selectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :tv: My Videos
